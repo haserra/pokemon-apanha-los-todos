@@ -1,0 +1,12 @@
+C:\Users\hserra\Documents\Visual Studio 2015\Projects\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\bin\Debug\ConquerPokemonWorld.exe.config
+C:\Users\hserra\Documents\Visual Studio 2015\Projects\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\bin\Debug\ConquerPokemonWorld.exe
+C:\Users\hserra\Documents\Visual Studio 2015\Projects\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\bin\Debug\ConquerPokemonWorld.pdb
+C:\Users\hserra\Documents\Visual Studio 2015\Projects\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\obj\Debug\ConquerPokemonWorld.csprojResolveAssemblyReference.cache
+C:\Users\hserra\Documents\Visual Studio 2015\Projects\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\obj\Debug\ConquerPokemonWorld.exe
+C:\Users\hserra\Documents\Visual Studio 2015\Projects\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\obj\Debug\ConquerPokemonWorld.pdb
+C:\Users\salgu\source\repos\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\bin\Debug\ConquerPokemonWorld.exe.config
+C:\Users\salgu\source\repos\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\bin\Debug\ConquerPokemonWorld.exe
+C:\Users\salgu\source\repos\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\bin\Debug\ConquerPokemonWorld.pdb
+C:\Users\salgu\source\repos\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\obj\Debug\ConquerPokemonWorld.csprojAssemblyReference.cache
+C:\Users\salgu\source\repos\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\obj\Debug\ConquerPokemonWorld.exe
+C:\Users\salgu\source\repos\PremiumMinds\ConquerPokemonWorld\ConquerPokemonWorld\obj\Debug\ConquerPokemonWorld.pdb
